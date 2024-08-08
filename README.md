@@ -61,4 +61,5 @@ p
 ```
 
 Output: 
+
 ![JuliaSet animation.gif](https://github.com/Xiao-E5B08F/Julia-Set-animation-generator-with-ARM-assembly/blob/main/JuliaSet%20animation.gif)
